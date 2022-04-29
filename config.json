@@ -1,0 +1,16 @@
+{
+  "pluginName": "Google Meet",
+  "pluginDescription": "Mute/unmute Google Meet",
+  "pluginReadMore": "",
+  "protocolVersion": 1,
+  "actions": [
+    {
+      "actionName": "Mute/Unmute",
+      "fileName": "MuteMeet.scpt"
+    },
+    {
+      "actionName": "Mute/Unmute via Chrome extension",
+      "fileName": "MuteMeetExtension.scpt"
+    }
+  ]
+}
